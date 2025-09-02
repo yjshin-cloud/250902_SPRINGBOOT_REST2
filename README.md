@@ -22,3 +22,16 @@
 <img width="1115" height="764" alt="image" src="https://github.com/user-attachments/assets/b23b10fd-19d8-4052-92bb-335bf70b73f2" />
 
 ---
+
+> PUT - http://localhost:8080/api/tasks/1
+
+```JSON
+{
+    "id": 1,
+    "title": "bye"
+}
+```
+
+---
+
+<img width="1120" height="766" alt="image" src="https://github.com/user-attachments/assets/f60afd64-1c84-4232-9b04-578add4d7c7e" />
