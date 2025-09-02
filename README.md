@@ -8,6 +8,11 @@
 ## PostMan
 
 > POST - http://localhost:8080/api/tasks
+```JSON
+{
+    "title": "식빵삶기"
+}
+```
 
 ---
 
@@ -35,3 +40,16 @@
 ---
 
 <img width="1120" height="766" alt="image" src="https://github.com/user-attachments/assets/f60afd64-1c84-4232-9b04-578add4d7c7e" />
+
+---
+
+> GET - http://localhost:8080/api/tasks/1
+> DELETE - http://localhost:8080/api/tasks/1
+
+<img width="1112" height="758" alt="image" src="https://github.com/user-attachments/assets/6bee034e-4255-4c30-a1ab-a7f176adce45" />
+
+---
+
+<img width="1116" height="679" alt="image" src="https://github.com/user-attachments/assets/bde8d049-7fc9-494e-9dfb-bd66b29745d5" />
+
+
